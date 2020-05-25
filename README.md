@@ -47,7 +47,8 @@ optional arguments:
                         involving string literals) with f-strings. 
                         Available only if flynt is installed with
                         3.8+ interpreter.
-  -f, --fail-on-change      Fail when changing files (for linting purposes)  --exclude EXCLUDE [EXCLUDE ...]
+  -f, --fail-on-change      Fail when changing files (for linting purposes)
+  --exclude EXCLUDE [EXCLUDE ...]
                         source file(s) or directory to ignore
 ```
 
